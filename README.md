@@ -1,4 +1,4 @@
-# [Group name]
+# [Aksel & Tobias]
 
 **Group members:**
 - Aksel

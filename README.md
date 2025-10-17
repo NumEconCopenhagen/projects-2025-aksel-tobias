@@ -1,8 +1,8 @@
 # [Group name]
 
 **Group members:**
-- A
-- B
+- Aksel
+- Tobias
 - C
 
 **This repository contains:***
